@@ -1,0 +1,15 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="#95a5a6"
+  stroke-width="1.5"
+>  
+<g transform="skewX(-12)">
+  <path
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    d="M6 4h7a4 4 0 010 8H6m0 0h8a4 4 0 010 8H6V4z"
+  />
+   </g>
+</svg>
