@@ -9,7 +9,7 @@ export default function Home() {
       <div className="container mx-auto p-4 relative">
         <div className="bg-white border-2 border-none rounded-lg min-h-screen">
           <div className="flex flex-col justify-center p-8">
-            <h1 className="text-4xl text-purple-700 font-bold mb-4">About</h1>
+            <h1 className="text-4xl text-green-700 font-bold mb-4">About</h1>
 
             <p className="text-lg text-gray-700 mb-4">
               Massa urna magnis dignissim id euismod porttitor
